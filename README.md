@@ -5,4 +5,4 @@ Both assignments were completed alone. <br />
 The first assignment was to create a virtual storefront in JavaFX. <br />
 The second assignment was to convert the virtual storefront to an Android app using Android Studio. <br />
 AVD - Pixel_3a_API_33_x86_64 <br />
-API Level - Android 13.0 <br />
+API Level - Android 13.0
